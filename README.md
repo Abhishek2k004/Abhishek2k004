@@ -1,40 +1,10 @@
 # <div align="center">✨ Hello World, I'm Abhishek Kumar Singh ✨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Computer+Engineering+Student;Pre-Final+Year;Passionate+Coder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Information+Science+Engineering+Student;Pre-Final+Year;Passionate+Coder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="Trophy Stats" />
-</div>
 
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</div>
-
-<hr>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-</div>
 
 ## <div align="center">💫 About Me</div>
 
