@@ -12,5 +12,5 @@ Java | Node.js | Express | MongoDB | Firebase | React | Solidity
 - **KnitKraft**: Farm-to-fabric wool tracking with escrow payments 🐑
 - **EduAble** : Designed anAI-basedreader to assist dyslexic users with text formatting and speech features for better comprehension.
 
-📫 Reach Me: [LinkedIn]((https://www.linkedin.com/in/abhishekkrsinghtoce/)) | [Portfolio](your-site) | [Email](mailto:you@example.com)
+📫 Reach Me: [LinkedIn](www.linkedin.com/in/abhishekkrsinghtoce) | [Portfolio](your-site) | [Email](mailto:you@example.com)
 
