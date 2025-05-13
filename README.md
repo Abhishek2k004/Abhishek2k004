@@ -1,7 +1,7 @@
 # <div align="center">✨ Hello World, I'm Abhishek Kumar Singh ✨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Information+Science+Engineering+Student;Pre-Final+Year;Passionate+Coder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines= Information+Science+Engineering+Student;Pre-Final+Year;Passionate+Coder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 
