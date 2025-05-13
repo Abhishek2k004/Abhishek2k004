@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Information+Engineering+Student;Pre-Final+Year;Passionate+Coder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="Trophy Stats" />
-</div>
+
 
 <br>
 
@@ -14,7 +12,7 @@
   <a href="https://linkedin.com/in/abhishekkrsinghtoce">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.Abhishek2k004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/yourusername">
