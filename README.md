@@ -1,73 +1,87 @@
-👋 Hey, I'm Abhishek Kumar Singh
-  
-Building scalable systems and tackling real-world problems with code. Passionate about backend development, AI solutions, and fintech innovation. Let’s create something extraordinary!  
-📍 Bangalore, KA | ✉️ Abhishek2k004@gmail.com | 🔗 LinkedIn | 💻 GitHub  
 
-🌟 About Me
-Pre-final year B.E. student in Information Science and Engineering at The Oxford College of Engineering, Bangalore. Skilled in backend technologies like Node.js, MySQL, and Java, I craft efficient solutions. My projects, from eco-friendly shopping platforms to AI accessibility tools, showcase my drive to innovate. Eager to contribute to fintech’s future through high-performance systems.
+<h1 align="center">Hi there, I'm Abhishek Kumar Singh 👋</h1>
 
-💻 Technical Skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=33F7FF&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Tech+Enthusiast+%7C+Fintech+Aspirant;Hackathon+Finalist+%7C+Tech+Mentor;Loves+to+solve+real+problems+with+code" />
+</p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .badge { opacity: 0; animation: fadeIn 1s ease-in forwards; margin: 5px; }
-    @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
-    .badge:nth-child(2) { animation-delay: 0.2s; }
-    .badge:nth-child(3) { animation-delay: 0.4s; }
-    .badge:nth-child(4) { animation-delay: 0.6s; }
-    .badge:nth-child(5) { animation-delay: 0.8s; }
-    img { height: 25px; }
-  </style>
-</head>
-<body>
-  <img class="badge" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-</body>
-</html>
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</div>
 
-🛠️ Featured Projects
-EcoMit - Eco-Friendly Shopping Assistant
-MERN-based platform with a Chrome extension to sync Amazon/Flipkart carts and recommend eco-friendly alternatives.Tech: React.js, Node.js, Express.js, MongoDB, Redux, JavaScriptImpact: Promotes sustainable shopping.  
-KnitKraft - Wool Supply Chain Platform
-Web and mobile app for transparent wool tracking, with trade, weather updates, and escrow payments.Tech: Flutter, Node.js, Express.js, Firebase, MongoDB, EJS, REST APIsImpact: Enhances wool industry transparency.  
-Dyslexia-Friendly Reading Assistant
-AI-powered tool to format text and provide speech features for dyslexic users.Tech: Python, Flask, Tesseract OCR, OpenCV, JavaScript, HTML, CSS, TTS/STT APIsImpact: Improves reading accessibility.  
+---
 
-🎓 Education
-B.E. in Information Science and EngineeringThe Oxford College of Engineering, BangaloreAug 2022 - Jun 2026 | CGPA: 8.5/10  
+### 🎯 About Me
 
-🏆 Achievements
+```yaml
+Name: Abhishek Kumar Singh
+Current: Prefinal Year (6th Sem), B.E. in Information Science & Engineering
+Institute: The Oxford College of Engineering, Bangalore
+Interest: Scalable systems, fintech tools, blockchain & human-centered tech
+Motto: Build meaningful, ethical software that performs
+```
 
-🥇 Ranked 18th among 1000+ in GeeksforGeeks leaderboard.  
-🥈 1st in Technical Debate (50 teams, college).  
-🥉 Runner-up in OXYIGNITE-2K23 (national, 48 teams).  
-🥉 Runner-up in Brand Sprint (startup pitch, 100 teams).  
-🚀 Participated in Smart India Hackathon 2024.  
-🌐 Joined CypherQuest 2025 (zonal hackathon).
+🧠 Fun Fact: I write **poetry** when my code finally compiles!  
+🎤 As CSI President, I organize tech events and mentor peers.  
+
+---
+
+### 🔧 Tech Stack (Animated Badges)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,react,firebase,mysql,python,html,css" />
+</p>
 
 
-🤝 Leadership
-President, Computer Society of India (CSI) - Student ChapterAug 2024 - Present  
+---
 
-Led hackathons, workshops, and coding contests.  
-Mentored juniors for technical growth.
+### 🚀 My Projects (With Emojis & Links)
 
-Treasurer, CSI - Student ChapterApr 2024 - Aug 2024  
+| 💡 Project | 🚀 Description | 🔧 Tech Stack | 🔗 Links |
+|-----------|----------------|--------------|----------|
+| **🌿 EcoMit** | Chrome extension + MERN app that recommends sustainable shopping alternatives | React, Node.js, MongoDB, Redux | [GitHub](https://github.com/Abhishek2k004/EcoMit) |
+| **🧶 KnitKraft** | Wool traceability from farm to fabric with quality certs and escrow logic | Flutter, Firebase, Node.js | [GitHub](https://github.com/Abhishek2k004/KnitKraft) |
+| **📖 EduAble** | Reading assistant for dyslexics using AI/ML and TTS features | Flask, Tesseract, OpenCV, JS | [GitHub](https://github.com/Abhishek2k004/EduAble) |
 
-Managed event budgets for smooth execution.
+---
 
+### 🏆 Achievements
 
-🌐 Coding Profiles
-  
+🏅 **GFG College Rank:** #18 out of 1000+ students  
+🥇 **Winner** – Technical Debate, 50+ teams  
+🥈 **Runner-up** – OXYIGNITE-2K23 (National Hackathon)  
+🚀 **SIH 2024 Finalist** – Smart India Hackathon  
+🎤 **Brand Sprint Pitch Runner-up** – 100+ teams
 
-📊 GitHub Stats
-  
+---
 
-👀 Visitors
+### 👑 Leadership
+
+- 👨‍💼 **President, CSI Student Chapter (2024–Present)**  
+- 💼 **Treasurer, CSI (Apr–Aug 2024)**  
+- 📢 Speaker at tech workshops, host of debugging & codefest events
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:Abhishek2k004@gmail.com"><img src="https://img.shields.io/badge/email-Abhishek2k004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abhishekkrsinghtoce"><img src="https://img.shields.io/badge/LinkedIn-Abhishek-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abhishek2k004"><img src="https://img.shields.io/badge/GitHub-Abhishek2k004-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Abhishek2k004"><img src="https://img.shields.io/badge/LeetCode-Abhishek-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user//abhisingh8yt"><img src="https://img.shields.io/badge/GeeksforGeeks-Abhishek-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Footer
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <em>"Code with clarity. Lead with empathy. Build with impact."</em> 💙
+</p>
 
